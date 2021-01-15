@@ -54,7 +54,7 @@ void saveConfigCallback () {
   shouldSaveConfig = true;
 }
 
-// mdnsserver
+// mDNS server
 #define SERVICE_PORT        8085    
 #define UPDATE_CYCLE        (1 * 1000)                          // every second
 
